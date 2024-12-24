@@ -1,3 +1,3 @@
-# Pangea Projects
+# Pangea Projelerim
 
-My Pangea civil society organization projects.
+- [Örnek Podcast Metini](https://github.com/kaankaltakkiran/Pangea_Projects/tree/main/podcast)
