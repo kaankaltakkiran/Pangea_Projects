@@ -1,6 +1,6 @@
 # Audacity Düzenleme Notlarım
 
-- [Audacity Klavye Kısayolları](https://github.com/kaankaltakkiran/Pangea_Projects/blob/main/podcast/notlarim/ornek_podcast_metni.md)
+- [Audacity Klavye Kısayolları](https://github.com/kaankaltakkiran/Pangea_Projects/blob/main/podcast/notlarim/audacity_klavye_kisayollari.md)
 
 ## Gürültü Azaltma
 
