@@ -16,7 +16,7 @@ Konuşmanın olmadığı, sadece ortam sesi içeren bir bölüm seçilir. Daha s
    - Tekrar `Etkiler > Gürültü Azaltma` seçeneğine tıklanır.
    - Ayarlar kontrol edilir ve `Tamam` butonuna basılarak gürültüler azaltılır.
 
----
+![Gürültü Azaltma](./image/gurultu_azaltma.png)
 
 ---
 
@@ -27,6 +27,10 @@ Ses seviyesini yükseltmek için şu adımlar izlenir:
 1. Menüden `Etkiler > Ses Düzeyi Ve Sıkıştırma > Sıkıştırıcı` seçeneğine tıklanır.
 2. Otomatik ayarlarla sesler sıkıştırılarak yükseltilir.
 
+![Sıkıştırıcı](./image/sıkıstırıcı.png)
+
+---
+
 ## Boşluk Kısımlarını Silme
 
 Ses dalgalarının olmadığı boşlukları kaldırmak için:
@@ -34,6 +38,8 @@ Ses dalgalarının olmadığı boşlukları kaldırmak için:
 1. Tüm ses seçilir (`Ctrl + A`) veya silmek istenen bölümler işaretlenir.
 2. Menüden `Etkiler > Özel > Sessizliği Buda` seçeneği seçilir.
 3. Boşluklar otomatik olarak temizlenir.
+
+![Sessizliği Buda ](./image/sessizligi_buda.png)
 
 ---
 
@@ -45,6 +51,8 @@ Ses dalgalarını dengeli hale getirmek için:
 2. Menüden `Etkiler > Ses Düzeyi Ve Sıkıştırma>  Normalleştir` seçeneğine tıklanır.
 3. Açılan pencerede ilk iki seçenek işaretli bırakılır.
 4. `Tamam` butonuna basılarak işlem tamamlanır.
+
+![Normalleştirme](./image/normallestir.png)
 
 ---
 
